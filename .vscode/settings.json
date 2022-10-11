@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/.*": true,
+        "**/package*.json": true
+    }
+}
